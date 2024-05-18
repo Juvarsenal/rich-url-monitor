@@ -1,0 +1,11 @@
+{
+    "domain": "rich_url_monitor",
+    "name": "Rich URL Monitor",
+    "version": "1.0.0",
+    "documentation": "https://github.com/Juvarsenal/rich-url-monitor",
+    "issue_tracker": "https://github.com/Juvarsenal/rich-url-monitor/issues",
+    "dependencies": [],
+    "codeowners": [
+      "@Richie.Huang"
+    ]
+  }
