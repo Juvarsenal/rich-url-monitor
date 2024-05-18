@@ -13,7 +13,7 @@ from homeassistant.helpers.event import async_track_time_interval
 
 _LOGGER = logging.getLogger(__name__)
 
-DOMAIN = 'my_url_monitor'
+DOMAIN = 'rich_url_monitor'
 
 CONFIG_SCHEMA = {
     DOMAIN: {
